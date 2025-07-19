@@ -14,8 +14,8 @@ Welcome to the WhatsNext Vision Motors Salesforce CRM project! This is a Salesfo
 - Manage vehicle stock with batch jobs.
 
 ## Project Details
-- **Developer**: [Kinthada Baladithya]
-- **Batch**: Salesforce Developer with [Agentblazer]
+- **Developer**: Kinthada Baladithya
+- **Batch**: Salesforce Developer with Agentblazer
 - **Date**: July 17, 2025
 - **Demo Video**: [https://drive.google.com/file/d/1GaVX7z69mj_we4sQB6m1s6oi7W5a1vB8/view?usp=share_link] 
 - **Trailblazer Profile**: [https://www.salesforce.com/trailblazer/v5c9fsu42nhjzbplhn]

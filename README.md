@@ -38,8 +38,3 @@ To run this project, follow these steps:
 2. **Activate Your Account**:
    - Check your email for a verification link (may take 5-10 minutes).
    - Click "Verify Account," set a password, answer a security question, and log in.
-
-3. **Set Up the Project**:
-   - Clone this repository to your local machine:
-     ```bash
-     git clone <your-repo-url>
